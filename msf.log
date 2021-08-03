@@ -1,0 +1,12 @@
+[MSFinder]Analizing Assembly-CSharp... => as ACSharp.dll
+[MSFinder] Match "stikosek"!
+[MSFinder] Decompiling ACSharp.dll
+[MSFinder] Detected changing on ChatBox.cs > writing on ChatBox_M.cs
+[MSFinder] Detected changing on HitableMob.cs > writing on HitableMob_M.cs
+[MSFinder] Detected changing on HitableResource.cs > writing on HitableResource_M.cs
+[MSFinder] Detected changing on LootContainerInteract.cs > writing on LootContainerInteract_M.cs
+[MSFinder] Detected changing on PlayerMovement.cs > writing on PlayerMovement_M.cs
+[MSFinder] Detected changing on PlayerStatus.cs > writing on PlayerStatus_M.cs
+[MSFinder] Writing source code...
+[MSFinder] Cleaning trash...
+[MSFinder] Done! | Time Elapsed: 428394ms
