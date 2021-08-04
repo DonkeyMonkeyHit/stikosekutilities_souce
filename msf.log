@@ -1,4 +1,4 @@
-[MSFinder]Analizing Assembly-CSharp... => as ACSharp.dll
+[MSFinder] Analizing Assembly-CSharp... => as ACSharp.dll
 [MSFinder] Match "stikosek"!
 [MSFinder] Decompiling ACSharp.dll
 [MSFinder] Detected changing on ChatBox.cs > writing on ChatBox_M.cs
